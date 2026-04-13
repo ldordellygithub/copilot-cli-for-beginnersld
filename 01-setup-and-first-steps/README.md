@@ -573,7 +573,7 @@ You can also enable remote access from inside an active session at any time:
 > /remote
 ```
 
-You can use the [`/keep-alive` slash command](https://docs.github.com/copilot/how-tos/copilot-cli/steer-remotely#preventing-your-machine-from-going-to-sleep) to prevent your machine from going to sleep while you're away.
+Additional details about remote sessions can be found in the [Copilot CLI docs](https://docs.github.com/copilot/how-tos/copilot-cli/steer-remotely).
 
 ---
 
